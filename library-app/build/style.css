@@ -1,0 +1,7 @@
+.SendMessageBox{
+  bottom: 0;
+  right: 0;
+  font-size: 150%;
+  position: absolute;
+  width: 70%;
+}
